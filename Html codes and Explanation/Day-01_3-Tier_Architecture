@@ -1,0 +1,35 @@
+# Day 01 – 3-Tier Architecture
+
+## 📌 Topic
+3-Tier Architecture – Theory
+
+## 📖 Explanation
+3-Tier Architecture is a software design pattern that divides an application into three layers:
+Presentation Layer, Application Layer, and Data Layer.
+Each layer has a specific responsibility, which makes the application easy to manage and maintain.
+
+## 🏗️ Layers Explanation
+
+### 1. Presentation Layer
+This is the user interface layer.
+Users interact with this layer.
+HTML, CSS, and JavaScript are used here.
+
+### 2. Application Layer
+This layer contains business logic.
+It processes user requests and controls application flow.
+Languages like Java, Python, and PHP are used.
+
+### 3. Data Layer
+This layer stores and manages data.
+It communicates with databases like MySQL and MongoDB.
+
+## 🔄 Working Flow
+User → Presentation Layer → Application Layer → Data Layer → Response
+
+## ✅ Conclusion
+3-Tier Architecture helps in building secure, scalable, and well-organized applications.
+HTML belongs to the Presentation Layer.
+
+## ✨ Author
+Akunuri Harsha Valli
